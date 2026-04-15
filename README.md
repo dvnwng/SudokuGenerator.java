@@ -2,6 +2,7 @@ Project: Sudoku Puzzle Generator
 Devin Wang
 
 Description: This project includes coding to print out a Sudoku board by using java and a pattern-based construction method
+
 How to run the program: Copy the code and paste it into any java complier and change the name of the file to Sudoku.java 
 and run the program(I used codehs.com).
 
